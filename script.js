@@ -81,7 +81,7 @@ function displayPlayerNumber(dicevalue) {
   player1DiceFaceValueImg.src = srcName;
 }
 
-player1Coin.addEventListener("click", movePlayer);
+// player1Coin.addEventListener("click", movePlayer);
 
 // Event listener for rolling the dice
 dice.addEventListener("click", () => {
